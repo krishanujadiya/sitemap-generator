@@ -1,0 +1,22 @@
+{
+    "name": "krishanujadiya/sitemap-generator",
+    "description": "A Laravel package to generate sitemaps dynamically.",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "laravel/framework": "^8.0|^9.0|^10.0|^11.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Krishanujadiya\\SitemapGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Krishanu Jadiya",
+            "email": "krishanujadiya@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
